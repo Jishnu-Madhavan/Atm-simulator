@@ -1,0 +1,23 @@
+### ATM Simulator in Python
+
+This is a simple **ATM Simulator** built using Python, which allows users to perform basic banking operations. The features include:
+
+- **PIN authentication** with 3 attempts.
+- **Balance checking** to view the current account balance.
+- **Deposit functionality** to add funds to the account.
+- **Withdrawal functionality** to withdraw money from the account.
+- **Exit option** to end the session.
+
+#### Features:
+- Simple command-line interface.
+- Secure PIN verification.
+- Basic error handling for invalid inputs and insufficient balance during withdrawals.
+- User-friendly prompts and error messages.
+
+#### How to Run:
+1. Clone the repository or download the Python file.
+2. Run the Python script using:
+   ```bash
+   python atm.py
+   ```
+3. Follow the prompts to interact with the ATM system.
